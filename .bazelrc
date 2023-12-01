@@ -1,0 +1,4 @@
+# Explanation of this in the BUGS.md
+common --repo_env=DOCKER_CONFIG=does_not_matter
+
+build --experimental_convenience_symlinks=clean
